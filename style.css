@@ -12,37 +12,6 @@ Tags: light, accessibility-ready
 Text Domain: planet4-child-theme-bulgaria
 */
 
-.collapsible {
-	margin: 32px 0;
-  padding-bottom: 20px;
-}
-
-.collapsible + .collapsible {
-	margin-top: -32px;
-}
-
-.collapsible .title {
-	color: #333;
-  font-size: 1.125em;
-  line-height: 1.2em;
-  background-color: #e8e8e8;
-  padding: 15px;
-  outline: none;
-  border-bottom: 1px solid #fff;
-  font-family: Roboto,sans-serif;
-  font-weight: 700;
-}
-
-.collapsible .content {
-	padding:15px; background-color:#fff;
-  border: 1px solid #e8e8e8;
-  border-top: 0;
-}
-
-.collapsible .content>:last-child {
-	margin-bottom: 0;
-}
-
 .alert-danger {
   color: #721c24;
   background-color: #f8d7da;
